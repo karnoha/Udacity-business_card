@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Johnny Pizza</string>
+    <string name="header2">&quot;Come and taste the italian cuisine!&quot;</string>
+    <string name="picture_desc">picture of pizza</string>
+    <string name="icon_desc">icon</string>
+    <string name="phone_number">775 61 56 41</string>
+    <string name="open_hours">Mo - Fr: 11:00 - 24:00</string>
+    <string name="url">http://johnnypizza.cz/</string>
+    <string name="address">Koubkova 685/16, Praha 2</string>
+    <string name="bon_apetit">Bon Apetit!</string>
+</resources>
